@@ -61,15 +61,3 @@ The `train_model.py` script trains the Logistic Regression model using the provi
 ## Making Predictions
 
 The `predict.py` script allows for classifying new user requests using the trained model. It prompts the user to enter a request and outputs the classification.
-
-## Contributing
-
-Contributions to this project are welcome! Please fork the repository and open a pull request with your improvements.
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-Note: This README provides a basic template and overview. You should customize it to fit the specifics of your project, including any additional setup steps, dependencies, or usage details relevant to your implementation.
