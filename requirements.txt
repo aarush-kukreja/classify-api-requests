@@ -1,0 +1,7 @@
+pip
+pipdeptree
+scikit-learn
+joblib
+numpy
+scipy
+threadpoolctl
