@@ -74,7 +74,7 @@ To avoid conflicts with other projects by isolating dependencies, follow these s
     
     Install the dependencies:
     ```bash
-    pip install scikit-learn joblib
+    pip install -r requirements.txt
     ```
 
      To deactivate the virtual environment when you're done, run:
