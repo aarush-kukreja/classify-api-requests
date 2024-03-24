@@ -54,7 +54,7 @@ You have two options for installing dependencies: directly or using a virtual en
 Directly install the project dependencies by running:
 
 ```bash
-pip install scikit-learn joblib
+pip install pipdeptree scikit-learn joblib numpy scipy threadpoolctl
 ```
 
 #### Option B: Using a Virtual Environment
